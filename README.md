@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @phanindra-kid
+- 👋 Hi, I’m @phanindra-kid done my Ph.D. in Electrical Engineering 
 - 👀 I’m interested in ... Design and Modeling of power electronic converters for various applications
 - 🌱 I’m currently learning ... Model based designs (automobile), python and simultions of EV 
 - 💞️ I’m looking to collaborate on ... 
